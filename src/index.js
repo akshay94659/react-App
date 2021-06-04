@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'; // It is required for importing the react and is common in all react apps
+import ReactDOM from 'react-dom'; // It is react-dom for inserting react-dom in the app
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
